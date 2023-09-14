@@ -1,8 +1,6 @@
 package in.dev.shvms.authservice.mysqltest;
 
 
-import org.springframework.data.annotation.Id;
-
 import javax.persistence.*;
 
 @Table(name = "user")
