@@ -10,20 +10,16 @@
 	</parent>
 	<groupId>in.dev.shvms</groupId>
 	<artifactId>auth-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>v0.0</version>
 	<name>auth-service</name>
 	<description>auth as service</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-jpa</artifactId>
-		</dependency>
 <!--		<dependency>-->
 <!--			<groupId>org.springframework.boot</groupId>-->
-<!--			<artifactId>spring-boot-starter-data-mongodb-reactive</artifactId>-->
+<!--			<artifactId>spring-boot-starter-data-jpa</artifactId>-->
 <!--		</dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
